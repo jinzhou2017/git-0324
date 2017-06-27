@@ -6,3 +6,4 @@ goog morning
 good afternoon
 good evening
 this is git
+你好
