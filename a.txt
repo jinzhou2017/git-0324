@@ -2,8 +2,6 @@ hello word!!
 nihao
 hahaha
 hehe
-goog morning
-good afternoon
 good evening
 this is git
 你好
